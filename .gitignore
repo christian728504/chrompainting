@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Static files
+*.pkl
+*.tsv
+*.bam
+*.bam.bai
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.fasta.fai
+*.tar.gz
+*.chain
+*.chain.gz
+WhatsHap.log
+gnomix/pretrained_gnomix_models/
