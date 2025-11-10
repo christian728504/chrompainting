@@ -27,3 +27,6 @@ wheels/
 *.chain.gz
 WhatsHap.log
 gnomix/pretrained_gnomix_models/
+gnomix/demo/data/allchrs.b37.gmap
+logs/jupyter.stderr
+
